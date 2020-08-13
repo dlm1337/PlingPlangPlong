@@ -38,7 +38,7 @@ namespace PlingPlangPlong
                     {
                         var Leachtastic = Factor(Convert.ToInt32(userInput));
                         int x = 0;
-                        foreach (int f in Leachtastic.Reverse<int>())
+                        foreach (int f in Leachtastic.Reverse())
                         {
 
                        
