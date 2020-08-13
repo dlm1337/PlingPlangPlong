@@ -1,0 +1,13 @@
+C:\Users\dlm13\source\repos\PlingPlangPlong\bin\Debug\netcoreapp3.1\PlingPlangPlong.exe
+C:\Users\dlm13\source\repos\PlingPlangPlong\bin\Debug\netcoreapp3.1\PlingPlangPlong.deps.json
+C:\Users\dlm13\source\repos\PlingPlangPlong\bin\Debug\netcoreapp3.1\PlingPlangPlong.runtimeconfig.json
+C:\Users\dlm13\source\repos\PlingPlangPlong\bin\Debug\netcoreapp3.1\PlingPlangPlong.runtimeconfig.dev.json
+C:\Users\dlm13\source\repos\PlingPlangPlong\bin\Debug\netcoreapp3.1\PlingPlangPlong.dll
+C:\Users\dlm13\source\repos\PlingPlangPlong\bin\Debug\netcoreapp3.1\PlingPlangPlong.pdb
+C:\Users\dlm13\source\repos\PlingPlangPlong\obj\Debug\netcoreapp3.1\PlingPlangPlong.csprojAssemblyReference.cache
+C:\Users\dlm13\source\repos\PlingPlangPlong\obj\Debug\netcoreapp3.1\PlingPlangPlong.AssemblyInfoInputs.cache
+C:\Users\dlm13\source\repos\PlingPlangPlong\obj\Debug\netcoreapp3.1\PlingPlangPlong.AssemblyInfo.cs
+C:\Users\dlm13\source\repos\PlingPlangPlong\obj\Debug\netcoreapp3.1\PlingPlangPlong.csproj.CoreCompileInputs.cache
+C:\Users\dlm13\source\repos\PlingPlangPlong\obj\Debug\netcoreapp3.1\PlingPlangPlong.dll
+C:\Users\dlm13\source\repos\PlingPlangPlong\obj\Debug\netcoreapp3.1\PlingPlangPlong.pdb
+C:\Users\dlm13\source\repos\PlingPlangPlong\obj\Debug\netcoreapp3.1\PlingPlangPlong.genruntimeconfig.cache
