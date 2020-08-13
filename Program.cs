@@ -19,7 +19,7 @@ namespace PlingPlangPlong
             
             
         }
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
            Console.WriteLine("type exit to quit.");
             while (true)
@@ -38,7 +38,7 @@ namespace PlingPlangPlong
                     {
                         var Leachtastic = Factor(Convert.ToInt32(userInput));
                         int x = 0;
-                        foreach (int f in Leachtastic)
+                        foreach (int f in Leachtastic.Reverse<int>())
                         {
 
                        
